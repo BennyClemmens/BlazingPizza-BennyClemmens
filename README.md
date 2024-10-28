@@ -100,3 +100,11 @@ Creating consistency in directory structure.
 Benny@FLAB2021 MINGW64 /c/DATA/GIT/CSHARP
 $ mv BlazingPizza/ BlazingPizza-BennyClemmens/
 ```
+
+## Download the Blazing Pizza assets and starter files
+
+See <https://github.com/BennyClemmens/BlazingPizzaSite>
+
+## Make some pizzas
+
+![002_icons.PNG](img/002_icons.PNG)
